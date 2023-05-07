@@ -1,0 +1,29 @@
+body{
+
+background-color:black;
+
+
+}
+/* estilizando titulo*/
+
+h1{
+
+    font-size: 50px; /* tamanho da fonte */
+    color: crimson; /* cor da fonte */
+    text-align: center; /* alinha o texto no centro*/
+
+}
+
+p{
+
+background-image: linear-gradient(to rigth, aqua, purple); /* faz um gradiente de fundo*/
+
+-webkit-text-fill-color: transparent ; /* vai deixar o fundo transparente e estiliza o texto*/
+
+font-size: 40px; /* tamanho da fonte */
+
+text-align: center; /* alinha o texto ao centro */
+
+text-transform: uppercase; /* transforma qualquer palavra minuscula em maiscula */
+
+}
